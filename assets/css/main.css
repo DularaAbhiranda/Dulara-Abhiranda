@@ -967,10 +967,10 @@ section,
 --------------------------------------------------------------*/
 
 .certificate-item iframe {
-  object-fit: cover;
-  width: 100%;
-  height: 300px; /* Adjust as needed */
-  border: none;
+    object-fit: cover;
+    width: 100%;
+    height: 300px; /* Adjust as needed */
+    border: none;
 }
 
 
